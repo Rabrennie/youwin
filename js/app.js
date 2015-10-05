@@ -5,7 +5,7 @@ var ywtgapp = angular.module("ywtgapp",[])
             100:{title:"More Winning",desc:"You have won some more!"},
             250:{title:"Losing?",desc:"How did you just lose?"},
             300:{title:"Won Again",desc:"Bro it was just a prank!"},
-            400:{title:"Won Again",desc:"Bro it was just a prank!"}
+            400:{title:"Still Winning!",desc:"Even more winning!"}
         },
         winStrings = {
             1:"You win!",
